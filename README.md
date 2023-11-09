@@ -1,1 +1,1 @@
-# artificial-intelligence---machine-learning
+# artificial-intelligence-and-machine-learning
